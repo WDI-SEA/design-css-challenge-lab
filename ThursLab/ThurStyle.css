@@ -1,0 +1,43 @@
+body {
+    background-color: #98D2BF;
+}
+
+#whiteSheet {
+    margin: 2em auto;
+    width: 50%;
+    background-color: #fff;
+    font-family: sans-serif;
+}
+
+.bottom {
+    padding: 1em 2em;
+    font-size: .7em;
+}
+
+.block {
+    border-bottom: 1px solid #dfdfdf;
+    padding: 1em 2em;
+}
+
+h1 {
+    color: black;
+    font-size: 1em;
+}
+
+h2 {
+    margin: .5em 2em .5em 0;
+    font-size: .7em;
+    font-weight: 400;
+}
+
+.inputer {
+    width: 80%;
+}
+
+.cities {
+    display: inline-block;
+}
+
+.subbie {
+    background-color: #B69843;
+}
