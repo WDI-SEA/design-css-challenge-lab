@@ -7,22 +7,6 @@
 }
 
 
-/*.clear
-fix:after {*/
-
-
-/*display: table;*/
-
-
-/*clear: both;*/
-
-
-/*content: "";*/
-
-
-/*}*/
-
-
 /* ==========================================================================
    Author's custom styles
   ========================================================================== */
@@ -52,12 +36,10 @@ body {
 }
 
 #main {
-    /*float: left;*/
     width: 66.66667%;
 }
 
 #sidebar {
-    /*float: right;*/
     width: 29%;
     margin-top: 108px;
     color: #888;
@@ -168,7 +150,6 @@ header nav ul {
    ================================================================ */
 
 footer {
-    /*clear: both;*/
     color: #bbb;
 }
 
@@ -181,7 +162,6 @@ header nav ul {
 }
 
 header nav ul li {
-    /*float: left; This is not needed.*/
     width: 16.66667%;
     margin: 0;
     padding: 0;
